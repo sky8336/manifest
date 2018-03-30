@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin"
+           fetch="git://github.com/wowotechX/" />
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="doc" name="doc" />
+  <project path="build" name="build" />
+  <project path="tools" name="tools" />
+  <project path="u-boot" name="u-boot" />
+  <project path="linux" name="linux" />
+
+</manifest>
