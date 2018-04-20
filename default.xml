@@ -8,5 +8,8 @@
 
   <project path="bootloader/u-boot" name="u-boot" />
   <project path="kernel/linux" name="linux" />
+  <project path="build" name="build" />
+  <project path="boards" name="boards" />
+  <project path="device" name="device" />
 
 </manifest>
